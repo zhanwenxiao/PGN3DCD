@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Copy of project-level server '实验室4090_2'">
+    <serverData>
+      <paths name="Copy of project-level server '实验室4090_2'">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/user/zhanwenxiao/changedetection/code/siamkpconv" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="实验室3070">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="实验室4090">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/user/zhanwenxiao/code/siamkpconv" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

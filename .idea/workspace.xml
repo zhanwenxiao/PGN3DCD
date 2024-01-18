@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c95070a0-92f7-4cf8-8122-518348fa9124" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Uhg66JrxnlmlHZujtv1i4thJMG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Instance_seg/IA-SSD-main" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Mechine_learning\Change_detection\torch-points3d-SiamKPConvVariants-master\conf\models\segmentation" />
+      <recent name="D:\Mechine_learning\Change_detection\torch-points3d-SiamKPConvVariants-master\torch_points3d\core\data_transform" />
+      <recent name="D:\Mechine_learning\Change_detection\torch-points3d-SiamKPConvVariants-master\torch_points3d\metrics" />
+      <recent name="D:\Mechine_learning\Change_detection\torch-points3d-SiamKPConvVariants-master\conf\training" />
+      <recent name="D:\Mechine_learning\Change_detection\torch-points3d-SiamKPConvVariants-master\torch_points3d" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.trainInst">
+    <configuration name="SIFT_SKP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="torch-points3d-SiamKPConvVariants-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://root@192.168.205.154:22/root/anaconda3/envs/siam/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/torch_points3d/models/change_detection/SIFT_SKP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="torch-points3d-SiamKPConvVariants-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://root@192.168.205.154:22/root/anaconda3/envs/siam/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainSiamKPConv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eval_SiamKPConv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="torch-points3d-SiamKPConvVariants-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://user@192.168.210.108:22/home/user/anaconda3/envs/cd3d/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eval_SiamKPConv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainInst" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="torch-points3d-SiamKPConvVariants-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://root@192.168.205.154:22/root/anaconda3/envs/siam/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainInst.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainSiamKPConv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="torch-points3d-SiamKPConvVariants-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="CUDA_VISIBLE_DEVICES" value="0,1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://user@192.168.210.108:22/home/user/anaconda3/envs/cd3d/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainSiamKPConv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainer_SiamKPConv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="torch-points3d-SiamKPConvVariants-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://root@192.168.205.154:22/root/anaconda3/envs/kpconv/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/torch_points3d/trainer_SiamKPConv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.eval_SiamKPConv" />
+      <item itemvalue="Python.trainSiamKPConv" />
+      <item itemvalue="Python.SIFT_SKP" />
+      <item itemvalue="Python.trainInst" />
+      <item itemvalue="Python.trainer_SiamKPConv" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.trainInst" />
+        <item itemvalue="Python.trainSiamKPConv" />
+        <item itemvalue="Python.trainer_SiamKPConv" />
+        <item itemvalue="Python.eval_SiamKPConv" />
+        <item itemvalue="Python.SIFT_SKP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c95070a0-92f7-4cf8-8122-518348fa9124" name="Default Changelist" comment="" />
+      <created>1693397047168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693397047168</updated>
+      <workItem from="1693397052719" duration="54000" />
+      <workItem from="1693535454650" duration="4325000" />
+      <workItem from="1693622777331" duration="279000" />
+      <workItem from="1693625942913" duration="1115000" />
+      <workItem from="1693630735918" duration="1136000" />
+      <workItem from="1693631905885" duration="2902000" />
+      <workItem from="1693636096158" duration="7644000" />
+      <workItem from="1693716005760" duration="279000" />
+      <workItem from="1693716900032" duration="1814000" />
+      <workItem from="1693791969109" duration="96000" />
+      <workItem from="1693793436404" duration="2103000" />
+      <workItem from="1693795886039" duration="5211000" />
+      <workItem from="1693808355028" duration="108000" />
+      <workItem from="1693920665861" duration="6282000" />
+      <workItem from="1693959623403" duration="11896000" />
+      <workItem from="1693971899173" duration="16000" />
+      <workItem from="1693972066472" duration="68000" />
+      <workItem from="1693972162221" duration="793000" />
+      <workItem from="1694065917237" duration="15000" />
+      <workItem from="1694134345516" duration="731000" />
+      <workItem from="1694137816664" duration="854000" />
+      <workItem from="1694152721378" duration="139000" />
+      <workItem from="1694402749758" duration="1773000" />
+      <workItem from="1694420886481" duration="4964000" />
+      <workItem from="1694564750225" duration="6016000" />
+      <workItem from="1694585187835" duration="263000" />
+      <workItem from="1694587228884" duration="5771000" />
+      <workItem from="1694593261639" duration="1299000" />
+      <workItem from="1694650531655" duration="21639000" />
+      <workItem from="1694678848164" duration="2170000" />
+      <workItem from="1694744954894" duration="99000" />
+      <workItem from="1694841249517" duration="333000" />
+      <workItem from="1694841817870" duration="58000" />
+      <workItem from="1694996317243" duration="949000" />
+      <workItem from="1695002724972" duration="22722000" />
+      <workItem from="1695083600065" duration="1534000" />
+      <workItem from="1695086383382" duration="1235000" />
+      <workItem from="1695123930472" duration="28429000" />
+      <workItem from="1695202883629" duration="1749000" />
+      <workItem from="1695207113071" duration="8921000" />
+      <workItem from="1695256680610" duration="629000" />
+      <workItem from="1695259085696" duration="43902000" />
+      <workItem from="1695396475262" duration="12000" />
+      <workItem from="1695397559069" duration="654000" />
+      <workItem from="1695519951430" duration="6997000" />
+      <workItem from="1695534286893" duration="25640000" />
+      <workItem from="1695605597612" duration="19344000" />
+      <workItem from="1695688178752" duration="1566000" />
+      <workItem from="1695718466704" duration="3770000" />
+      <workItem from="1695786026282" duration="21490000" />
+      <workItem from="1695871893124" duration="73034000" />
+      <workItem from="1696332212133" duration="17987000" />
+      <workItem from="1696508009020" duration="2752000" />
+      <workItem from="1696558883292" duration="11250000" />
+      <workItem from="1696637425866" duration="23232000" />
+      <workItem from="1696691426524" duration="25031000" />
+      <workItem from="1696896865301" duration="45914000" />
+      <workItem from="1697069531795" duration="48093000" />
+      <workItem from="1697469177770" duration="21743000" />
+      <workItem from="1697530740633" duration="94684000" />
+      <workItem from="1698112135129" duration="413000" />
+      <workItem from="1698995528176" duration="57027000" />
+      <workItem from="1699412179670" duration="4936000" />
+      <workItem from="1699422716234" duration="37212000" />
+      <workItem from="1699579176720" duration="6794000" />
+      <workItem from="1699588850155" duration="129551000" />
+      <workItem from="1700095451426" duration="26616000" />
+      <workItem from="1700182790910" duration="213675000" />
+      <workItem from="1701132735871" duration="73943000" />
+      <workItem from="1701400853082" duration="32163000" />
+      <workItem from="1701652882692" duration="15686000" />
+      <workItem from="1701942829427" duration="2434000" />
+      <workItem from="1702280483023" duration="730000" />
+      <workItem from="1702533615185" duration="423000" />
+      <workItem from="1702620555991" duration="264000" />
+      <workItem from="1702622530304" duration="3215000" />
+      <workItem from="1702870193927" duration="1329000" />
+      <workItem from="1703206981786" duration="1832000" />
+      <workItem from="1703213343100" duration="7000" />
+      <workItem from="1703227784683" duration="37000" />
+      <workItem from="1704186395967" duration="41172000" />
+      <workItem from="1704417098383" duration="621000" />
+      <workItem from="1704417932114" duration="20013000" />
+      <workItem from="1704508263123" duration="4492000" />
+      <workItem from="1704693374451" duration="9832000" />
+      <workItem from="1704714681961" duration="1549000" />
+      <workItem from="1704781440987" duration="20603000" />
+      <workItem from="1704952703567" duration="2542000" />
+      <workItem from="1704955600638" duration="9435000" />
+      <workItem from="1705044372640" duration="614000" />
+      <workItem from="1705297566657" duration="1266000" />
+      <workItem from="1705367526881" duration="2141000" />
+      <workItem from="1705396254842" duration="1354000" />
+      <workItem from="1705457892905" duration="10000" />
+      <workItem from="1705459360558" duration="2475000" />
+      <workItem from="1705475508657" duration="2134000" />
+      <workItem from="1705484246762" duration="7000" />
+      <workItem from="1705541502314" duration="2328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/applications/modelfactory.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamesekpconv.py</url>
+          <line>586</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamesekpconv.py</url>
+          <line>483</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamesekpconv.py</url>
+          <line>476</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamencfusionkpconv.py</url>
+          <line>272</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/urb3DCD_tracker.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamencfusionkpconv.py</url>
+          <line>262</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamencfusionkpconv.py</url>
+          <line>266</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamencfusionkpconv.py</url>
+          <line>628</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamencfusionkpconv.py</url>
+          <line>397</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamencfusionkpconv.py</url>
+          <line>426</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/trainer.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamesekpconv.py</url>
+          <line>231</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/trainer_SiamKPConv.py</url>
+          <line>152</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/datasets/change_detection/HKCDPairCylinder.py</url>
+          <line>178</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/urb3DCD_tracker.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamesekpconv.py</url>
+          <line>310</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamesekpconv.py</url>
+          <line>259</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamesekpconv.py</url>
+          <line>268</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamencfusionkpconv.py</url>
+          <line>371</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamencfusionkpconv.py</url>
+          <line>664</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamesekpconv.py</url>
+          <line>337</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamesekpconv.py</url>
+          <line>353</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamesekpconv.py</url>
+          <line>364</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/SIFT_SKP.py</url>
+          <line>797</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/SIFT_SKP.py</url>
+          <line>746</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/SIFT_SKP.py</url>
+          <line>583</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/SIFT_SKP.py</url>
+          <line>942</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/SIFT_SKP.py</url>
+          <line>667</line>
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/SIFT_SKP.py</url>
+          <line>786</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/datasets/change_detection/HKCDPairCylinder.py</url>
+          <line>305</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/trainer_SiamKPConv.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/hkCD_tracker.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamesekpconv_double_pc.py</url>
+          <line>705</line>
+          <option name="timeStamp" value="374" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamencfusionkpconv.py</url>
+          <line>443</line>
+          <option name="timeStamp" value="376" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamencfusionkpconv.py</url>
+          <line>441</line>
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamencfusionkpconv.py</url>
+          <line>448</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamesekpconv_double_pc.py</url>
+          <line>702</line>
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/SIFT_SKP.py</url>
+          <line>674</line>
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/trainer_SiamKPConv.py</url>
+          <line>247</line>
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/SIFT_SKP_double_pc.py</url>
+          <line>257</line>
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/hkCD_tracker.py</url>
+          <line>195</line>
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/hkCD_tracker.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/hkCD_tracker.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/segmentation/kpconv.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="448" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/segmentation/kpconv.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="463" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/change_detection/siamencfusionkpconv_double_pc.py</url>
+          <line>236</line>
+          <option name="timeStamp" value="492" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/datasets/base_dataset.py</url>
+          <line>163</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/segmentation/inst.py</url>
+          <line>349</line>
+          <option name="timeStamp" value="515" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/segmentation/inst.py</url>
+          <line>276</line>
+          <option name="timeStamp" value="517" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/segmentation/inst.py</url>
+          <line>373</line>
+          <option name="timeStamp" value="535" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/segmentation/inst.py</url>
+          <line>424</line>
+          <option name="timeStamp" value="546" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/segmentation/inst.py</url>
+          <line>341</line>
+          <option name="timeStamp" value="549" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/segmentation/inst.py</url>
+          <line>354</line>
+          <option name="timeStamp" value="550" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/segmentation/inst.py</url>
+          <line>410</line>
+          <option name="timeStamp" value="552" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/segmentation/inst.py</url>
+          <line>417</line>
+          <option name="timeStamp" value="555" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/segmentation_tracker.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="556" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/metrics/segmentation_tracker.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="557" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/segmentation/inst.py</url>
+          <line>289</line>
+          <option name="timeStamp" value="559" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/segmentation/inst.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="560" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/torch_points3d/models/segmentation/inst.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="561" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="plydata.elements" />
+        <watch expression="q_b" />
+        <watch expression="self" />
+        <watch expression="out_mask" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/torch_points3d_SiamKPConvVariants_master$SIFT_SKP.coverage" NAME="SIFT_SKP Coverage Results" MODIFIED="1696986375388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/torch_points3d_SiamKPConvVariants_master$trainSiamKPConv.coverage" NAME="trainSiamKPConv Coverage Results" MODIFIED="1704419336387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/torch_points3d_SiamKPConvVariants_master$train.coverage" NAME="train Coverage Results" MODIFIED="1693796094270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/torch_points3d_SiamKPConvVariants_master$trainer_SiamKPConv.coverage" NAME="trainer_SiamKPConv Coverage Results" MODIFIED="1704329790874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/torch_points3d_SiamKPConvVariants_master$eval_SiamKPConv.coverage" NAME="eval_SiamKPConv Coverage Results" MODIFIED="1701960165910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/torch_points3d_SiamKPConvVariants_master$trainInst.coverage" NAME="trainInst Coverage Results" MODIFIED="1704966313170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

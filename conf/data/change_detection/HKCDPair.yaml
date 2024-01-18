@@ -1,0 +1,23 @@
+data:
+  class: HKCDPairCylinder.HKCDDataset
+  dataset_name: "HKCD"
+  task: change_detection
+  dataTrainFile:  /home/user/zhanwenxiao/changedetection/data/HKCD/grid_0.200/Train/ #/home/user/zhanwenxiao/data/CD_DATA/HKCD/grid_0.200/Train/ #/gpfswork/rech/rin/utf14pr/dataset/Urb3DSimul/IEEE_Dataset_V1/5-MultiSensor/Train/ #
+  dataValFile: /home/user/zhanwenxiao/changedetection/data/HKCD/grid_0.200/Val/ #/home/user/zhanwenxiao/data/CD_DATA/HKCD/grid_0.200/Val/ #/gpfswork/rech/rin/utf14pr/dataset/Urb3DSimul/IEEE_Dataset_V1/5-MultiSensor/Val/ #
+  dataTestFile: /home/user/zhanwenxiao/changedetection/data/HKCD/grid_0.200/Test/ # /home/user/zhanwenxiao/changedetection/data/HKCD/grid_0.200/Test/ #/home/user/zhanwenxiao/data/CD_DATA/HKCD/grid_0.200/Test/ #/gpfswork/rech/rin/utf14pr/dataset/Urb3DSimul/IEEE_Dataset_V1/5-MultiSensor/Train/ #
+  dataroot: data
+  preprocessed_dir: /home/user/zhanwenxiao/changedetection/data/HKCD/grid_0.200/testets/ # /home/user/zhanwenxiao/data/CD_DATA/HKCD/grid_0.200/testets/ #/gpfswork/rech/rin/utf14pr/dev/torch-points3d/data/${data.dataset_name}/5-MultiSensor/ #
+  first_subsampling: 1.0 #0.05 # Grid size of the input data
+  use_category: False # Use object category information
+  radius: 15
+  sample_per_epoch: 6000 # 6000
+  fix_cyl: False # Fix cylinder a special seed and do not apply DA --> for transfer learning tests
+  DA: True # Make data augmentation for train ds
+  pre_transforms: # Offline transforms, done only once
+    - transform: GridSampling3D
+      params:
+        size: ${data.first_subsampling}
+
+
+  load_preprocessed: True # False # Wether to load or not pre_transform point clouds, if not original files will be computed again
+  load_trees: False # Wether to load or not kd trees if possible
