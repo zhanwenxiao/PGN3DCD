@@ -7,10 +7,6 @@ This Git project is built upon Torch-Point3D depository to share code for PGN3DC
    <img src="docs/Overview.png" >      
 </p>
 
-<p align="center">
-  <img width="40%" src="https://raw.githubusercontent.com/nicolas-chaulet/torch-points3d/master/docs/logo.png" />
-</p>
-
 # Overview
 
 We introduce a new dataset, HKCD, and proposes a novel model, PGN3DCD, for 3D change detection.
